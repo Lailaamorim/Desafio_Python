@@ -102,14 +102,14 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   ## Condições em Python (If..Else)
   #Aula 10 
   
-- 28° Dasafio: Jogo de adivinhação 
-- 29° Dasafio: Radar eletrônico
-- 30° Dasafio: Par ou Ímpar
-- 31° Dasafio: Custo de viagem
-- 32° Dasafio: Ano bissexto
-- 33° Dasafio: Maior e menor valores
-- 34° Dasafio: Aumentos multiplos
-- 35° Dasafio: Analisando Triângulos v10
+- 28° Desafio: Jogo de adivinhação 
+- 29° Desafio: Radar eletrônico
+- 30° Desafio: Par ou Ímpar
+- 31° Desafio: Custo de viagem
+- 32° Desafio: Ano bissexto
+- 33° Desafio: Maior e menor valores
+- 34° Desafio: Aumentos multiplos
+- 35° Desafio: Analisando Triângulos v10
   
   ## Cores no Terminal 
   #Aula 11
@@ -117,7 +117,18 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 - Cores 💕
 
    <h3 align="center">Mundo 2 => Estrutura de Controle </h3>
-   ## 
+   ##Condições em Python (if..elif)
+
+   - 36° Desafio: aprovando Emprestimo 
+   - 37° Desafio: Conversor de Bases numericas
+   - 38° Desafio: Comparando Números 
+   - 39° Desafio: Alistamento  Militar
+   - 40° Desafio: Clássico Média
+   - 41° Desafio: Classificando Atletas
+   - 42° Desafio: Analisando triângulos
+   - 43° Desafio: índice de massa corporal
+   - 44° Desafio: Gerenciador de pagamentos
+   - 45° Desafio: Game predra papel o tesoura
    
    
 
