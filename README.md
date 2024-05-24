@@ -1,0 +1,127 @@
+# Python
+![Curso em Video](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
+
+<h1 align="center">CURSO EM VIDEO</h1>
+
+<div align="center">
+
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://www.cursoemvideo.com/)
+
+</div>
+
+
+(^///^) <p> Com magnifico professor Gustavo Guanabara</p>
+
+![Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png)
+## 💻 Description
+
+<p>Series de # Python
+![Curso em Video](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
+
+
+
+<p>Series de desafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
+
+<p>Com uma grande didática é fácil aprender com eles.</p>
+
+## 📖 About 
+╰(*°▽°*)╯
+
+<p> O objetivo é aprender mais sobre Python e suas funcionalidades.
+
+O que é Python?
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, 
+desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o 
+Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
+     
+</p>
+
+</p>
+<p>
+     
+
+## 😊Contato
+lailaamorimsant@gmail.com
+
+esafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
+
+<p>Com uma grande didática é fácil aprender com eles.</p>
+
+## 📖 About 
+╰(*°▽°*)╯
+
+<p> O objetivo é aprender mais sobre Python e suas funcionalidades.
+
+O que é Python?
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, 
+desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o 
+Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
+
+ </p>
+
+</p>
+<p>
+    <h3 align="center">Mundo 1 => Fundamentos </h3>  
+
+  ## Desafios de Python ‍♀️
+  #Aula 08
+- 1° Desafio: Hello World!
+- 2° Desafio: Saudação
+- 3° Desafio: Somando dois números
+- 4° Desafio: Dissecando uma variável
+- 5° Desafio: Antecessor e sucessor
+- 6° Desafio: Dobro, triplo, raiz quadrada
+- 7° Desafio: Operadores aritméticos
+- 8° Desafio: Conversor de medidas
+- 9° Desafio: Tabuada
+- 10° Desafio: Conversor de Moedas
+- 11° Desafio: Pintando Parede
+- 12° Desafio: Calculando Descontos
+- 13° Desafio: Reajuste Salarial
+- 14° Desafio: Conversor de Temperaturas
+- 15° Desafio: Aluguel de Carros
+- 16° Desafio: Quebrando um Número
+- 17° Desafio: Catetos e Hipotenusa
+- 18° Desafio: Seno, Cosseno e tangente
+- 19° Desafio: Sorteando um item na lista
+- 20° Desafio: Sorteando uma ordem na lista
+- 21° Desafio: -//-
+
+  ## Fatiamento em Python
+  #Aula 09 
+   
+- 22° Desafio: Analisador de textos 
+- 23° Desafio: Separando digitos de números 
+- 24° Desafio: Verificando a primeira as primeiras letras de um texto 
+- 25° Desafio: Procurando uma string dentro de outra 
+- 26° Desafio: Primeira e ultima ocorrência de uma string
+- 27° Desafio: Primeiro e ultimo nome de uma pessoa
+
+  ## Condições em Python (If..Else)
+  #Aula 10 
+  
+- 28° Dasafio: Jogo de adivinhação 
+- 29° Dasafio: Radar eletrônico
+- 30° Dasafio: Par ou Ímpar
+- 31° Dasafio: Custo de viagem
+- 32° Dasafio: Ano bissexto
+- 33° Dasafio: Maior e menor valores
+- 34° Dasafio: Aumentos multiplos
+- 35° Dasafio: Analisando Triângulos v10
+  
+  ## Cores no Terminal 
+  #Aula 11
+
+- Cores 💕
+
+   <h3 align="center">Mundo 2 => Estrutura de Controle </h3>
+   ## 
+   
+   
+
+
+## 😊Contato
+lailaamorimsant@gmail.com
+
