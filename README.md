@@ -1,4 +1,5 @@
 # Python
+
 ![Curso em Video](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
 
 <h1 align="center">CURSO EM VIDEO</h1>
@@ -9,54 +10,53 @@
 
 </div>
 
-
 (^///^) <p> Com magnifico professor Gustavo Guanabara</p>
 
 ![Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png)
+
 ## 💻 Description
 
 <p>Series de # Python
 ![Curso em Video](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
 
-
-
 <p>Series de desafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
 
 <p>Com uma grande didática é fácil aprender com eles.</p>
 
-## 📖 About 
+## 📖 About
+
 ╰(*°▽°*)╯
 
 <p> O objetivo é aprender mais sobre Python e suas funcionalidades.
 
 O que é Python?
-O Python é uma linguagem de programação amplamente usada em aplicações da Web, 
-desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o 
-Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+O Python é uma linguagem de programação amplamente usada em aplicações da Web,
+desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o
+Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes.
 O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
-     
+
 </p>
 
 </p>
 <p>
-     
 
 ## 😊Contato
-lailaamorimsant@gmail.com
+<lailaamorimsant@gmail.com>
 
 esafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
 
 <p>Com uma grande didática é fácil aprender com eles.</p>
 
-## 📖 About 
+## 📖 About
+
 ╰(*°▽°*)╯
 
 <p> O objetivo é aprender mais sobre Python e suas funcionalidades.
 
 O que é Python?
-O Python é uma linguagem de programação amplamente usada em aplicações da Web, 
-desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o 
-Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+O Python é uma linguagem de programação amplamente usada em aplicações da Web,
+desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o
+Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes.
 O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
 
  </p>
@@ -65,8 +65,10 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 <p>
     <h3 align="center">Mundo 1 => Fundamentos </h3>  
 
-  ## Desafios de Python ‍♀️
+## Desafios de Python ‍♀️
+
   #Aula 08
+
 - 1° Desafio: Hello World!
 - 2° Desafio: Saudação
 - 3° Desafio: Somando dois números
@@ -89,20 +91,22 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 - 20° Desafio: Sorteando uma ordem na lista
 - 21° Desafio: -//-
 
-  ## Fatiamento em Python
-  #Aula 09 
-   
-- 22° Desafio: Analisador de textos 
-- 23° Desafio: Separando digitos de números 
-- 24° Desafio: Verificando a primeira as primeiras letras de um texto 
-- 25° Desafio: Procurando uma string dentro de outra 
+## Fatiamento em Python
+
+  #Aula 09
+
+- 22° Desafio: Analisador de textos
+- 23° Desafio: Separando digitos de números
+- 24° Desafio: Verificando a primeira as primeiras letras de um texto
+- 25° Desafio: Procurando uma string dentro de outra
 - 26° Desafio: Primeira e ultima ocorrência de uma string
 - 27° Desafio: Primeiro e ultimo nome de uma pessoa
 
-  ## Condições em Python (If..Else)
-  #Aula 10 
+## Condições em Python (If..Else)
+
+  #Aula 10
   
-- 28° Desafio: Jogo de adivinhação 
+- 28° Desafio: Jogo de adivinhação
 - 29° Desafio: Radar eletrônico
 - 30° Desafio: Par ou Ímpar
 - 31° Desafio: Custo de viagem
@@ -111,29 +115,25 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 - 34° Desafio: Aumentos multiplos
 - 35° Desafio: Analisando Triângulos v10
   
-  ## Cores no Terminal 
+## Cores no Terminal
+
   #Aula 11
 
 - Cores 💕
 
    <h3 align="center">Mundo 2 => Estrutura de Controle </h3>
-   
-  ## Condições em Python (if..elif)
+   ##Condições em Python (if..elif)
 
-   - 36° Desafio: aprovando Emprestimo 
-   - 37° Desafio: Conversor de Bases numericas
-   - 38° Desafio: Comparando Números 
-   - 39° Desafio: Alistamento  Militar
-   - 40° Desafio: Clássico Média
-   - 41° Desafio: Classificando Atletas
-   - 42° Desafio: Analisando triângulos
-   - 43° Desafio: índice de massa corporal
-   - 44° Desafio: Gerenciador de pagamentos
-   - 45° Desafio: Game predra papel o tesoura
-   
-   
-
+  - 36° Desafio: aprovando Emprestimo
+  - 37° Desafio: Conversor de Bases Númericas
+  - 38° Desafio: Comparando Números
+  - 39° Desafio: Alistamento  Militar
+  - 40° Desafio: Clássico Média
+  - 41° Desafio: Classificando Atletas
+  - 42° Desafio: Analisando Triângulos
+  - 43° Desafio: Índice de Massa Corporal
+  - 44° Desafio: Gerenciador de Pagamentos
+  - 45° Desafio: Game Pedra Papel e Tesoura
 
 ## 😊Contato
-lailaamorimsant@gmail.com
-
+<lailaamorimsant@gmail.com>
