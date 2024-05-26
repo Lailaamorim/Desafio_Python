@@ -122,7 +122,10 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 - Cores 💕
 
    <h3 align="center">Mundo 2 => Estrutura de Controle </h3>
-   ##Condições em Python (if..elif)
+   
+   
+## Condições em Python (if..elif)
+
 
   - 36° Desafio: aprovando Emprestimo
   - 37° Desafio: Conversor de Bases Númericas
@@ -134,6 +137,9 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   - 43° Desafio: Índice de Massa Corporal
   - 44° Desafio: Gerenciador de Pagamentos
   - 45° Desafio: Game Pedra Papel e Tesoura
+
+## Repetições em Python (For)
+
 
 ## 😊Contato
 <lailaamorimsant@gmail.com>
