@@ -6,4 +6,4 @@ else:
     print(f"O número {numero} é Impar!")    
     
     #Todo número par vai dar resultado '0' o resto da divisão de qualquer número par por 2 é '0'
-    #Todo número impar vai dar resultado '1' o resto da divisão de qualquer número impar por 2 é igaul a '1'
+    #Todo número impar vai dar resultado '1' o resto da divisão de qualquer número impar por 2 é igual a '1'

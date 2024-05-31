@@ -26,19 +26,24 @@ while True:
     resposta = input("PREPARADO PARA COMEÇAR? (Sim/não): ").strip().lower()
     if resposta == "sim":
         jogador = int(input("Qual é a sua jogada: "))
+        
+        if jogador not in [0, 1, 2]:
+            print(f"{cores['azul']}JOGADA INVÁLIDA!{cores['limpar']}")
+            continue
+        
+        
         print('-=' * 20)
         print(f"Computador jogou {(itens[computador])}")
         print(f"Jogador jogou {(itens[jogador])}")
         print('-=' * 20)
+        
         if computador == 0: #Computador jogou pedra
             if jogador == 0:
                 print(f"{cores['lilas']}EMPATE{cores['limpar']}")
             elif jogador == 1:
                 print(f"{cores['verde']}JOGADOR VENCE{cores['limpar']}") 
             elif jogador == 2:
-                print(f"{cores['amarelo']}COMPUTADOR VENCE{cores['limpar']}")      
-            else:
-                print(f"{cores['azul']}JOGADA INVÁLIDA!{cores['limpar']}")   
+                print(f"{cores['amarelo']}COMPUTADOR VENCE{cores['limpar']}")        
         
         elif computador == 1: #Jogador jogou papel 
             if jogador == 0 :
@@ -47,8 +52,6 @@ while True:
                 print(f"{cores['lilas']}EMPATE{cores['limpar']}")
             elif jogador == 2  :
                 print(f"{cores['verde']}JOGADOR VENCE{cores['limpar']}") 
-            else :
-                print(f"{cores['azul']}JOGADA INVÁLIDA{cores['limpar']}")
         
         elif computador == 2: 
             if jogador == 0:
@@ -57,8 +60,7 @@ while True:
                 print(f"{cores['amarelo']}COMPUTADOR VENCE{cores['limpar']}")
             elif jogador == 2:
                 print(f"{cores['lilas']}EMPATE{cores['limpar']}") 
-            else:    
-                print(f"{cores['azul']}JOGADA INVÁLIDA{cores['limpar']}")  
+
     elif resposta == "não":
         print("Saindo do game...")
         break

@@ -2,17 +2,19 @@
 Para salários superiores a R$ 1.250,00, calcule um aumento de 10%.
 para os inferiores ou iguais, o aumento de 15%.
 '''
-salario= float(input("Informe se salério R$: "))
-salario_superior = salario * 10 / 100
-total = salario + salario_superior
-salario_inferior = salario * 15 / 100
-total2 = salario + salario_inferior
 
-#10%
+salario = float(input("Informe seu salário R$: "))
+
+# Calcula o aumento de 10% e o novo salário para salários superiores a R$ 1250
 if salario > 1250.00:
-    print(f"O seu aumento é de R$ {salario_superior}, totalizando R$ {total} ")
-else:#15%
-    salario <= 1250.00
-    print(f"O seu aumento é de R$ {salario_inferior}, totalizando R$ {total2}")
+    aumento = salario * 10 / 100
+    novo_salario = salario + aumento
+    print(f"Seu aumento é de R${aumento:.2f}, totalizando R${novo_salario:.2f}")
+# Se o salário for maior que R$ 1250, calcula o aumento de 10%
 
-    
+# Calcula o aumento de 15% e o novo salário para salários iguais ou inferiores a R$ 1250
+else:
+    aumento = salario * 15 / 100
+    novo_salario = salario + aumento
+    print(f"Seu aumento é de R${aumento:.2f}, totalizando R${novo_salario:.2f}")
+# Se o salário for menor ou igual a R$ 1250, calcula o aumento de 15%

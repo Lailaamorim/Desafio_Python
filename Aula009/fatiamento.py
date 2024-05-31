@@ -21,3 +21,6 @@ print(frase.rstrip())#Remove o espaço só no lado direito
 print(frase.lstrip())#Remove espaço só no lado esquerdo
 print(frase.split()) #  Ele divide a string na variável frase em uma lista de substrings com base em um separador específico. Por padrão, o separador é qualquer espaço em branco, como tabulação ou nova linha.                                                                  
 print("_".join(frase))#Coloca um espaço ou um traço em cada palavra 
+
+#.append(): #Este é um método da linguagem Python que é usado para adicionar 
+    #elementos a uma lista. Ele funciona como se você estivesse colocando o elemento no final da fila.
