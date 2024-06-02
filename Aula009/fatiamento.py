@@ -8,14 +8,14 @@ print(frase[3])#pega a letra que está na posição 3
 print(frase[3:13]) #vai da letra que está no três, até a que esta no número 13
 print(frase.count("a"))#conta quantas vezes aparece a letra que está entre parenteses
 print(frase.count("a",0,13))# quantas letras "a" tem de zero a treze
-print(frase.find("nei"))# Ele vai dizer em que momento na frase começou a palavra mei, nesse caso no posição 10
-print(frase.find("Ventura"))# Quando não tem a palavra indicada, ele retorna o valor -1 que significa que a string ão existe
-print("unica" in frase)# verá se tem a palavra curso na frase e se sim dirá que é verdade]
+print(frase.find("nei"))# Ele vai dizer em que momento na frase começou a palavra Nei, nesse caso no posição 10
+print(frase.find("Ventura"))# Quando não tem a palavra indicada, ele retorna o valor -1 que significa que a string não existe
+print("unica" in frase)# verá se tem a palavra unica na frase e se sim dirá que é verdade]
 print(frase.replace("fazendo ", "praticando"))#Substituie a palavra antiga pela palavra nova
-print(frase.upper())# transforma as letras minusculas em maiusculas
-print(frase.lower())# transforma as letras mauisculas em minusculas
-print(frase.capitalize())# ele tranforma todas as letras maiscusculas em menusculas menos as iniciais 
-print(frase.title())# Vai analizar quantas palavras tem na frase e mudar para maicusla a inicial de cada uma delas.
+print(frase.upper())# transforma as letras minúsculas em maiúsculas
+print(frase.lower())# transforma as letras maiúsculas em minúsculas
+print(frase.capitalize())# ele tranforma todas as letras maiúsculas em minúsculas menos as iniciais 
+print(frase.title())# Vai analizar quantas palavras tem na frase e mudar para maiúscula a inicial de cada uma delas.
 print(frase.strip())#Ele irá remover todos os espaços inúteis no início e no final da string
 print(frase.rstrip())#Remove o espaço só no lado direito
 print(frase.lstrip())#Remove espaço só no lado esquerdo
