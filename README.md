@@ -140,6 +140,34 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 
 ## Repetições em Python (For)
 
+  - 46° Desafio: Contagem Regressiva
+  - 47° Desafio: Contagem dos Pares
+  - 48° Desafio: Soma Impares Multiplos de 3 
+  - 49° Desafio: Tabuada 2.0
+  - 50° Desafio: Soma dos Pares
+  - 51° Desafio: Progressão Aritmética
+  - 52° Desafio: Números Primos 
+  - 53° Desafio: Detector de Palíndromo
+  - 54° Desafio: Grupo da Maior Idade
+  - 55° Desafio: Maior e Menos da Sequência
+  - 56° Desafio: Analisador Completo
+ 
+## Estrutura de repetição While
 
+  - 57° Desafio: Validação de Dados 
+  - 58° Desafio: Jogo da Adivinhação 2.0
+  - 59° Desafio: Criando um Menu de Opção 
+  - 60° Desafio: Cálculo do Fatorial
+  - 61° Desafio: Progressão Aritmética 2.0
+  - 62° Desafio: Super Progressão Aritmética 3.0
+  - 63° Desafio: Sequência de Fibonacci 1.0
+  - 64° Desafio: Tratando vários valores 1.0
+  - 65° Desafio: Maior e menor  
+  - 66° Desafio: Vários números com flag 
+  - 67° Desafio: Tabuada 3.0
+  - 69° Desafio: Jogo do Par ou Ímpar
+  - 70° Desafio: Estatisticas em Produtos 
+  - 71° Desafio: Simulador de Caixa Eletrônico
+  
 ## 😊Contato
 <lailaamorimsant@gmail.com>
