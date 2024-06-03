@@ -8,23 +8,24 @@ foi o numero tal? não
 foi o numero tal? sim.
 parabens '''
 
-import random
+from random import randint
 
-computador = random.randint
+computador = randint(0,10)
 
-palpite = 0
+print("Sou seu computador e acabei de pensar em um número de 0 a 10.")
+print ("Será que você consegue adivinhar qual foi?")
 acertou = False
-
-print("O computador escolheu um número entre 0 e 10. Tente adivinhar!")
-
+palpites = 0
 #Loop até o jogador acertar
 while not acertou:
-    palpite =  int(input("Qual é o seu palpite? "))
-    palpite += 1
-    
+    jogador =  int(input("Qual é o seu palpite? "))
+    palpites += 1
     #Verifica se o palpite está correto
-    if palpite == computador :
+    if jogador == computador:
         acertou = True
-        print(f"Parabéns! Você acertou o número {computador} em {palpite} palpites" )
-    else:
-        print("Não foi dessa vez. Tente novamente.")    
+    else :
+        if jogador < computador:  
+            print("Mais... Tente mais uma vez.")   
+        elif jogador  > computador:  
+            print("Menos... Tente mais uma vez.")    
+print(f"Parabéns! Você acertou o número {computador} em {palpites} palpites" )
