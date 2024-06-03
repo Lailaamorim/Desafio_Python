@@ -163,11 +163,15 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   - 63° Desafio: Sequência de Fibonacci 1.0
   - 64° Desafio: Tratando vários valores 1.0
   - 65° Desafio: Maior e menor  
+
+  ## Interrompendo repetiçôes While
+
   - 66° Desafio: Vários números com flag 
   - 67° Desafio: Tabuada 3.0
   - 69° Desafio: Jogo do Par ou Ímpar
   - 70° Desafio: Estatisticas em Produtos 
   - 71° Desafio: Simulador de Caixa Eletrônico
-  
+
+    
 ## 😊Contato
 <lailaamorimsant@gmail.com>
