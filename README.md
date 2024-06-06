@@ -67,7 +67,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 
 ## Desafios de Python ‍♀️
 
-  #Aula 08
+    #Aula 08
 
 - 1° Desafio: Hello World!
 - 2° Desafio: Saudação
@@ -93,7 +93,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 
 ## Fatiamento em Python
 
-  #Aula 09
+    #Aula 09
 
 - 22° Desafio: Analisador de textos
 - 23° Desafio: Separando digitos de números
@@ -104,7 +104,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 
 ## Condições em Python (If..Else)
 
-  #Aula 10
+    #Aula 10
   
 - 28° Desafio: Jogo de adivinhação
 - 29° Desafio: Radar eletrônico
@@ -117,7 +117,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   
 ## Cores no Terminal
 
-  #Aula 11
+    #Aula 11
 
 - Cores 💕
 
@@ -125,7 +125,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
    
    
 ## Condições em Python (if..elif)
-
+    #Aula 12
 
   - 36° Desafio: aprovando Emprestimo
   - 37° Desafio: Conversor de Bases Númericas
@@ -140,6 +140,8 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 
 ## Repetições em Python (For)
 
+    #Aula 13
+
   - 46° Desafio: Contagem Regressiva
   - 47° Desafio: Contagem dos Pares
   - 48° Desafio: Soma Impares Multiplos de 3 
@@ -153,6 +155,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   - 56° Desafio: Analisador Completo
  
 ## Estrutura de repetição While
+    #Aula 14
 
   - 57° Desafio: Validação de Dados 
   - 58° Desafio: Jogo da Adivinhação 2.0
@@ -165,6 +168,8 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   - 65° Desafio: Maior e menor  
 
   ## Interrompendo repetiçôes While
+
+    #Aula 15
 
   - 66° Desafio: Vários números com flag 
   - 67° Desafio: Tabuada 3.0
