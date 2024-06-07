@@ -2,7 +2,12 @@
 
 #Ex: 5 = 5x4x3x2x1 = 120
 
-from math import factorial
-n = int(input("Digite um numero para calcular seu fatorial: "))
-f = factorial(n)
-print("O fatorial de {n} é {f}")
+from math import factorial  # Importa a função factorial do módulo math
+
+n = int(input("Digite um número para calcular seu fatorial: ")) 
+
+# Calcula o fatorial do número fornecido pelo usuário
+f = factorial(n)  # Utiliza a função factorial para calcular o fatorial de n
+
+# Exibe o resultado
+print(f"O fatorial de {n} é {f}") 
