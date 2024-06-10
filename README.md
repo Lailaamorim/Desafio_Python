@@ -177,6 +177,20 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
   - 70° Desafio: Estatisticas em Produtos 
   - 71° Desafio: Simulador de Caixa Eletrônico
 
-    
+   <h3 align="center">Mundo 3=> Tuplas em Python </h3>
+   
+   
+## Variáveis Compostas (Tuplas)
+
+    #Aula 16
+
+  - 72° Desafio: Número por Extenso
+  - 73° Desafio: Tuplas com Times de Futebol
+  - 74° Desafio: Maior e menor valores em Tupla
+  - 75° Desafio: Análise de dados em uma Tupla
+  - 76° Desafio: Lista de Preços com Tupla
+  - 77° Dasafio: Contando vogais em Tupla
+
+     
 ## 😊Contato
 <lailaamorimsant@gmail.com>
